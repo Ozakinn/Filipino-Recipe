@@ -54,8 +54,8 @@ Check the release.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Copyright (c) 2020 Krystler/Ozakinn. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](/LICENSE) file.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](/LICENSE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
