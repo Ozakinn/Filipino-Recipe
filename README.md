@@ -27,7 +27,7 @@ A Filipino recipe application that allows users to share, edit, and remove their
 
 
 ## Community
-**This application will no longer update for new feature and some bugs. But it will be maintained.** 
+**This app will no longer receive updates for new features (unless I have time). However, it will be maintained.** 
 
 Please start a GitHub Issue if you have a problem.
 
