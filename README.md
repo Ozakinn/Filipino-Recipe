@@ -26,6 +26,17 @@ A Filipino recipe application that allows users to share, edit, and remove their
 •	The application was made for school final project.
 
 
+## Community
+**This application will no longer update for new feature and some bugs. But it will be maintained.** 
+
+Please start a GitHub Issue if you have a problem.
+
+If you'd want to contribute to this project, please leave a star 🌟 and share it with your friends! 😎
+
+I would appreciate it if you could offer me a cup of coffee. ☕💖
+
+<a href="https://www.buymeacoffee.com/Ozaki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## User Interface
 
 •	Menu
