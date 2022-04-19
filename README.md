@@ -51,3 +51,11 @@ A Filipino recipe application that allows users to share, edit, and remove their
 ## Download Link
 Are you looking for the apk?
 Check the release.
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
